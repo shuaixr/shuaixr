@@ -20,9 +20,10 @@ const aboutMe = {
 - 📈 Projects with growth potential
 
 ### 📊 GitHub Stats
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shuaixr&show_icons=true&theme=transparent" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuaixr&layout=compact&theme=transparent" />
-
+</div>
 
 ### 💝 Support My Work
 If you find my open source contributions valuable, you can support me through:
