@@ -27,7 +27,6 @@ const aboutMe = {
 
 ### 💝 Support My Work
 If you find my open source contributions valuable, you can support me through:
-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J2122A8L)
-- ETH: `0xB6443acbeF0FA693501c8edBFeEaB723260529e6`
+- ERC20: `0xB6443acbeF0FA693501c8edBFeEaB723260529e6`
 
 ### "Code is poetry written in logic" 💭
