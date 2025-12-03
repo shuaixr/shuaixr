@@ -41,4 +41,4 @@ const aboutMe = {
 If you find my open source contributions valuable, you can support me through:
 - ERC20: `0xB6443acbeF0FA693501c8edBFeEaB723260529e6`
 
-### "Code is poetry written in logic" 💭
+### 💭 "Code is poetry written in logic" 
