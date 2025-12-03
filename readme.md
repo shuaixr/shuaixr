@@ -14,10 +14,6 @@
 ```typescript
 const aboutMe = {
     currentStatus: "Open to new opportunities (Remote / On-site / Freelance) 🚀",
-    contact: {
-        email: "1025sxr@gmail.com",
-        upwork: "Available for hire"
-    },
     skills: ["JavaScript", "TypeScript", "React", "Node.js", "Python", "Golang"],
     interests: ["Open Source", "Cloud Computing", "AI/ML"],
     learning: ["Rust", "Web3"],
