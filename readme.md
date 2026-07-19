@@ -29,8 +29,8 @@ const aboutMe = {
 
 ### 📊 GitHub Stats
 <div align="left">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=shuaixr&show_icons=true&theme=transparent" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shuaixr&layout=compact&theme=transparent" />
+  <img height="180em" src="https://github-stats-extended-frontend-self-beta.vercel.app/api?username=shuaixr&show_icons=true&theme=transparent" />
+  <img height="180em" src="https://github-stats-extended-frontend-self-beta.vercel.app/api/top-langs/?username=shuaixr&layout=compact&theme=transparent" />
 </div>
 
 ### 💝 Support My Work
